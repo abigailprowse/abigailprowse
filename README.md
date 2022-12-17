@@ -1,5 +1,5 @@
 # Welcome!
-Hi! I'm Abigail!  I've been studying computer science for a couple years now.  I've worked in a couple languages, but C++ is byfar my favorite so far.  Some of my hobbies include robotics, music composition, gaming, reading, and learning French. I'm so happy you could stop by!
+Hi! I'm Abigail!  I've been studying computer science for a couple years now.  I've worked in a couple languages, but C++ is byfar my favorite.  Some of my hobbies include robotics, music composition, gaming, reading, and learning French. I'm so happy you could stop by!
 
 ## Skillset
 Through my education I have a basic understanding in these languages:
